@@ -11,7 +11,6 @@ public class Homework01 {
 		 * indirim gidis donus bilet alirsa yaş indirimlerinden hariç 20% indirim bu
 		 * kosullara gore yolcudan gideceği mesafeyi isteyip ucak bilet ucretini
 		 * hesaplayan program yazınız
-		 * 
 		 */ 
 		 
 		Scanner scan=new Scanner(System.in);
